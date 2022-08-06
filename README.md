@@ -3,7 +3,7 @@ I've been actively making software for 4 years. The most developed area is C#, L
 
 Discord : geregee#8596
 My Web Site : https://protectorx.ga/ 
-my wearedevs profile : https://wearedevs.net/profile?uid=75310
+My wearedevs profile : https://wearedevs.net/profile?uid=75310
 My Discord Server : https://discord.gg/fj4EJeNCh2
 My Discord Server : https://discord.gg/72mc3E3zVF
 My Discord Server : https://discord.com/invite/FuGBdkkbjN
