@@ -12,4 +12,6 @@ My Discord Server : https://discord.com/invite/FuGBdkkbjN
 Owner Protector X & Seal-Ware Xerox  Hub Xerox  Expolit
 Known Languages: C#,Lua,Html,Css,Js,Python,
 
-![unknown](https://user-images.githubusercontent.com/109618747/183243204-05a3ed87-419c-4e87-bec8-a393362c3cd3.png)
+
+![unknown (1) (1)](https://user-images.githubusercontent.com/109618747/183243310-b709463b-6521-48aa-9193-17551eaa3c66.png)
+![logo](https://user-images.githubusercontent.com/109618747/183243336-bd0cfae8-4cf9-4d21-b9ff-e6c1c376c5c6.png)
