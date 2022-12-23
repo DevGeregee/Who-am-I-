@@ -1,7 +1,7 @@
 # Hello, Welcome to My Profile! Have fun.
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1028617202879967302)](https://discord.com/users/1028617202879967302)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1018386909195669574)](https://discord.com/users/1018386909195669574)
 
 ## I Know
 
