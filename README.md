@@ -1,8 +1,5 @@
 # Hello, Welcome to My Profile! Have fun.
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1028617202879967302)](https://discord.com/users/1028617202879967302)
-
 ## I Know
 
 <table>
@@ -39,14 +36,6 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="bootstrap" />
-      <br>Type Script
-    </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
 <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" width="48" height="48" alt="mysql" />
       <br>Visual Basic
@@ -75,21 +64,6 @@
     </td>
 <br>
 
-
-## My Own Brands
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://dslv9ilpbe7p1.cloudfront.net/WfRILj74WecIPovE2RCCcA_store_logo_image.png" alt="icon" width="65" height="65" />
-      <br>Ge-Ware
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://protectorx.ga/assets/img/ProtectorX.jpg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Protector X
-    </td>
-<br>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jk1kux73ik0qqfz3kaznhi10i&cover_image=true&theme=default&show_offline=false&background_color=121212)]()
