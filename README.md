@@ -1,5 +1,8 @@
 # Hello, Welcome to My Profile! Have fun.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1028617202879967302)](https://discord.com/users/1028617202879967302)
+
+
 ## I Know
 
 <table>
